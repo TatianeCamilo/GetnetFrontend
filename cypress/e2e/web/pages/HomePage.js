@@ -1,6 +1,6 @@
 class HomePage {
     visit() {
-        cy.visit('https://the-internet.herokuapp.com/challenging_dom');
+        cy.visit('https://site.getnet.com.br/');
     }
 }
 
